@@ -1,4 +1,4 @@
-# ITCS 3160 - Spring 2021 - Project Group 3
+# ITCS 3160-054 - Spring 2021 - Project Group 3
 
 Group Members: David Osunkwo, Austin Rogers, Alec Roseberry, Seth Little, Prem Patel
 
