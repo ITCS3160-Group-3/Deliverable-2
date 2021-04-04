@@ -1,4 +1,0 @@
-The goal of this project is to update an existing campus food delivery database. This database maintains information on students, faculty, staff and drivers, 
-as well as available delivery drivers, restaurants and food dropoff locations. The project will add a rating system for both restaurants and delivery drivers.
-In addition, new procedures will be added to the database that will provide the highest and lowest ranked drivers and restaurants. Lastly, various queries 
-and query optimizations will be included, and all work will be summarized in a narrated powerpoint presentation. 
