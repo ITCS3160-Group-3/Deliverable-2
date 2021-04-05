@@ -17,3 +17,5 @@ To meet these requirements, multiple tables will be needed to store information 
 
 ## Use Case Diagram:
 ![CampusEats Use Case 1](https://user-images.githubusercontent.com/56034248/113525462-17f33000-9583-11eb-8bd1-d0dd94417709.png)
+*Include is represented by a solid line
+*Exclude is represented by a dotted line
