@@ -2,7 +2,7 @@
 
 Group Members: David Osunkwo, Austin Rogers, Alec Roseberry, Seth Little, Prem Patel
 
-This purpose of this project is to extend a prototype for a database that is not a fully implemented working model. The existing prototype is for a campus food delivery startup that connects with local restaurants and sources delivery from university employees. This allows universities to have greater control over the flow of deliviery drivers into and out of campus. This is important amidst the Covid-19 pandemic. 
+The purpose of this project is to extend a prototype for a database that is not a fully implemented working model. The existing prototype is for a campus food delivery startup that connects with local restaurants and sources delivery from university employees. This allows universities to have greater control over the flow of deliviery drivers into and out of campus. This is important amidst the Covid-19 pandemic. 
 
 To meet these requirements, multiple tables will be needed to store information about the students, the student's orders, the restauruants that are partnered, as well as the drivers, deliveries, vehicles, location, and staff. The project will also add a rating system for both drivers and restaurants.
 
