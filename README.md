@@ -15,5 +15,5 @@ To meet these requirements, multiple tables will be needed to store information 
 * A Person must have placed an order with the restaurant to leave a rating.
 
 
-Use Case Diagram
+### Use Case Diagram
 ![CampusEats Use Case](https://user-images.githubusercontent.com/56034248/113525417-cd71b380-9582-11eb-9dc0-4456255e7d9b.png)
