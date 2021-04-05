@@ -13,3 +13,5 @@ To meet these requirements, multiple tables will be needed to store information 
 * A Person will be able to view ratings of potential restaurants.
 * Drivers and Restaurants will be able to review their own ratings.
 * A Person must have placed an order with the restaurant to leave a rating.
+
+
