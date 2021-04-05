@@ -10,6 +10,6 @@ To meet these requirements, multiple tables will be needed to store information 
 * A Person cannot give a Driver a rating before the delivery is complete.
 * A Person cannot give a restaurant multiple ratings.
 * A Person will be able to modify their rating of both Drivers and restaurants.
-* A Person will be able to view ratings of potential restaurants and drivers.
+* A Person will be able to view ratings of potential restaurants.
 * Drivers and Restaurants will be able to review their own ratings.
 * A Person must have placed an order with the restaurant to leave a rating.
