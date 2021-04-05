@@ -23,3 +23,4 @@ To meet these requirements, multiple tables will be needed to store information 
 
 
 ## EERD
+![Deliverable2EERD](https://user-images.githubusercontent.com/60197414/113526480-31e34180-9588-11eb-9506-987eaa908b9e.png)
