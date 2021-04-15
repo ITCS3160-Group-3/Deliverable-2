@@ -7,6 +7,7 @@ The purpose of this project is to extend a prototype for a database that is not 
 To meet these requirements, multiple tables will be needed to store information about the students, the student's orders, the restauruants that are partnered, as well as the drivers, deliveries, vehicles, location, and staff. The project will also add a rating system for both drivers and restaurants.
 
 ## Business Rules:
+* Ratings are given on a scale of 1 to 5
 * A Person cannot give a Driver a rating before the delivery is complete.
 * A Person cannot give a restaurant multiple ratings.
 * A Person will be able to modify their rating of both Drivers and restaurants.
@@ -23,4 +24,9 @@ To meet these requirements, multiple tables will be needed to store information 
 
 
 ## EERD
-![Deliverable2EERD](https://user-images.githubusercontent.com/60197414/113526480-31e34180-9588-11eb-9506-987eaa908b9e.png)
+![eerd](https://user-images.githubusercontent.com/56034248/114950312-c53a3380-9e20-11eb-835e-31bbcf8e93e2.png)
+
+
+## Query Results
+![unknown](https://user-images.githubusercontent.com/56034248/114950092-5bba2500-9e20-11eb-9731-398536c38cdd.png)
+
