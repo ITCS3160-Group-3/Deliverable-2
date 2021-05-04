@@ -32,4 +32,3 @@ To meet these requirements, multiple tables will be needed to store information 
 ![query](https://user-images.githubusercontent.com/56034248/114950442-02062a80-9e21-11eb-97f4-a51e3208a534.png)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/81yfwqz3dac/0.jpg)](https://www.youtube.com/watch?v=81yfwqz3dac)
-https://www.youtube.com/watch?v=81yfwqz3dac&ab_channel=Covertly
